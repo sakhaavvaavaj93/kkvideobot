@@ -1,6 +1,6 @@
 ## KK VDO BOT
 
-<img src="https://telegra.ph/file/c3a41770606345dcd1321.jpg" align="center" width="200" height="200"/>
+<p><img src="https://telegra.ph/file/c3a41770606345dcd1321.jpg" align="center"></p>
 
 
 a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
